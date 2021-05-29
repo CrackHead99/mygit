@@ -1,4 +1,5 @@
 # mygit
 This is for testing purpose
-Creatind file, push and pull request
+Creating files, push and pull request
+Switching branches
 Using Git Bash
